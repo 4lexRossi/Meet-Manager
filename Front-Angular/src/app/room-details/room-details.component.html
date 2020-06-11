@@ -1,0 +1,22 @@
+<h2>Detalhes sala</h2> 
+
+<hr/>
+<div *ngIf="room">
+  <div>
+    <label><b>nome </b></label> {{room.name}}
+  </div>
+  <div>
+    <label><b> data</b></label> {{room.date}}
+  </div>
+  <div>
+    <label><b> inicio</b></label> {{room.startHour}}
+  </div>
+    <div>
+    <label><b> fim</b></label> {{room.endHour}}
+  </div>
+</div>
+
+<br>
+<br>
+<button (click)="list()" class="btn btn-primary">Voltar a lista de salas</button><br>
+ 
