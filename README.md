@@ -1,6 +1,6 @@
 <h1 align="center">Live Code - Gerenciador de sala de Reuniões</h1>
 
-Esse repo é dividido em dois files o Backend em Java, e o Frontend em Angular9 codagem ao vivo na plataforma da [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU)
+Esse repo é dividido em dois, Backend em Java, e Frontend em Angular9 codagem ao vivo na plataforma da [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU)
 ministrado pela DevGirl [Kamila Santos](https://www.linkedin.com/in/kamila-santos-oliveira/) Backend Developer at [Ame Digital](https://www.linkedin.com/company/ame-digital/)
 
 ![](https://img.shields.io/github/stars/4lexRossi/Meet-Manager.svg) ![](https://img.shields.io/github/forks/4lexRossi/Meet-Manager.svg) ![](https://img.shields.io/github/issues/4lexRossi/Meet-Manager.svg)
